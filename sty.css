@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+  }
+
+header {
+    background-color: rgb(223, 230, 123);
+    color: rgb(9, 8, 8);
+    padding: 8px;
+    text-align: center;
+  }
+
+.main_container{
+
+    text-align: center;
+    padding: 50px 0;
+    background-color:rgb(249, 245, 245);
+      
+}
+
+.img_main{
+    margin-top: 15px;
+    max-width: 40%;
+    height: auto;
+
+
+}
+.des{
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 18px;
+}
+
+p{
+    text-align: left;
+}
+
+.main_container2{
+
+    text-align: center;
+    padding: 50px 0;
+    
+      
+}
+
+#img_main2{
+    margin-top: 15px;
+    max-width: 60%;
+    height: auto;
+}
+
+h3{
+    font-size: 18px;
+    color: rgb(218, 9, 148);
+    text-align: left;
+    margin-left: 80px;
+    font-size: 23px;
+}
+
+.biography {
+    padding: 50px 0;
+    background-color: rgb(136, 135, 135);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    
+  }
+  
+  
+  footer {
+    background-color:rgb(214, 214, 214);
+    color: rgb(242, 40, 40);
+    font-size: large;
+    padding: 10px;
+    text-align: center;
+}
+
